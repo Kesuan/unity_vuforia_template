@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="lion2" size="0.500000 0.500000" />
+    <ImageTarget name="lion1" size="0.500000 0.500000" />
+    <ImageTarget name="lvbu" size="0.400000 0.378000" />
+  </Tracking>
+</QCARConfig>
